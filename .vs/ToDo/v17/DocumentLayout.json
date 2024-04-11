@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\data\\migrations\\20230913013612_todotablemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\data\\migrations\\20230913013612_todotablemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|c:\\users\\saisi\\source\\repos\\todolist-mvc-.net\\todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F315CF-4A33-4B79-A62E-57CB86872EAA}|ToDo\\ToDo.csproj|solutionrelative:todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDo\\appsettings.json",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\appsettings.json",
+              "RelativeToolTip": "ToDo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T15:45:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Program.cs",
+              "RelativeDocumentMoniker": "ToDo\\Program.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Program.cs",
+              "RelativeToolTip": "ToDo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:45:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ToDo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ToDo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAAAQwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:44:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20230913013612_ToDoTableMigration.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\20230913013612_ToDoTableMigration.cs",
+              "RelativeDocumentMoniker": "ToDo\\Data\\Migrations\\20230913013612_ToDoTableMigration.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\20230913013612_ToDoTableMigration.cs",
+              "RelativeToolTip": "ToDo\\Data\\Migrations\\20230913013612_ToDoTableMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:44:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ToDo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ToDo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAYwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:43:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ToDo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ToDo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:43:34.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDo\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\saisi\\source\\repos\\ToDoList-MVC-.NET\\ToDo\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDo\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:40:04.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
